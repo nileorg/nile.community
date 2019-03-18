@@ -34,6 +34,8 @@ Sunday, 24 March at 22 CET. [Join us!](https://www.twitch.tv/marcocastignoli)
 
 Website: [https://nile.shopping/](https://nile.shopping/)
 
+Blog: [https://medium.com/nile-shopping](https://medium.com/nile-shopping)
+
 Github: [https://github.com/nileorg](https://github.com/nileorg)
 
 Twitter: [https://twitter.com/Nile_org](https://twitter.com/Nile_org)
