@@ -1,37 +1,44 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/nileorg/nile.community/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+[github]: https://github.com/nileorg
+[discord]: https://discord.gg/2J5Xmp
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Welcome to the Nile Community
 
-### Markdown
+[Nile](https://nile.shopping) is a decentralized, commission-free, local-economy focused online shopping platform.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The Nile community website contains usefull links and information.   
 
-```markdown
-Syntax highlighted code block
+## Community
 
-# Header 1
-## Header 2
-### Header 3
+Join our [Discord](https://discord.gg/pwMX5N) server and start with the community! 
 
-- Bulleted
-- List
+## Nile Academy
 
-1. Numbered
-2. List
+Marco, the founder of Nile streams every Sunday evening on Twitch and explain the fundamentals of web development.
 
-**Bold** and _Italic_ and `Code` text
+The community has voted a demo application, which based on a client/server architecture and focused on authentication.
 
-[Link](url) and ![Image](src)
-```
+Marcos Twich stream: [https://www.twitch.tv/marcocastignoli](https://www.twitch.tv/marcocastignoli) 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Next lesson
+Sunday, 24 March at 22 CET. [Join us!](https://www.twitch.tv/marcocastignoli) 
 
-### Jekyll Themes
+### Past lessons        
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/nileorg/nile.community/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+|     Date       |                 Title           |                        Video                             |
+|----------------|---------------------------------|----------------------------------------------------------|
+|     10.03.19   |    LESSON 1 - The tools         |                    not recorded                  |
+|     17.03.19   |    LESSON 2 - Planning an application   |   [link](https://www.twitch.tv/videos/397168734) |
 
-### Support or Contact
+## Stay Updated
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Website: [https://nile.shopping/](https://nile.shopping/)
+
+Github: [https://github.com/nileorg](https://github.com/nileorg)
+
+Twitter: [https://twitter.com/Nile_org](https://twitter.com/Nile_org)
+
+Discord: [Invite Link](https://discord.gg/pwMX5N)
+
+Youtube: [comming soon](https://youtube.com)
+
